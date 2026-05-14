@@ -1,4 +1,4 @@
-# RDP Unified Program
+# RDP Program
 
 A Java-based Remote Desktop Protocol application featuring real-time screen sharing, bidirectional audio streaming, encrypted file transfer, and a polished animated launcher UI — all in a single unified program.
 
