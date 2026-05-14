@@ -78,7 +78,7 @@ File Transfer    main + 2
 
 ## Requirements
 
-- Java 17+ (uses text blocks and modern java.net APIs)
+- Java 25+ (uses text blocks and modern java.net APIs)
 - Windows recommended for full audio loopback support (Stereo Mix / What U Hear)
 - Audio streaming on non-Windows hosts requires a virtual loopback device (e.g. VB-Cable, PulseAudio monitor source)
 
