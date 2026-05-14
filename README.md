@@ -9,7 +9,7 @@ A Java-based Remote Desktop Protocol application featuring real-time screen shar
 ### 🖥️ Remote Desktop
 - Real-time screen capture and streaming with adaptive JPEG compression
 - Full mouse and keyboard control forwarding (with safety restrictions on sensitive key combos)
-- Delta-frame encoding with periodic I-frames to minimize bandwidth usage (~60 fps target)
+- Delta-frame encoding with periodic I-frames to minimize bandwidth usage
 - Live FPS counter and connection status display
 
 ### 🔊 Audio Streaming
